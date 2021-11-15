@@ -1,0 +1,13 @@
+{
+  "name": "flux_homeassistant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabrielpetry/flux_homeassistant.git",
+  "author": "Gabriel Petry <contato@gabrielpetry.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
